@@ -2,7 +2,7 @@
 
 This repository showcases my work from **CS3425: Introduction to Database Systems**, a hands-on course at **Michigan Technological University** taught by **Professor Ruihong Zhang** in Fall 2023. The course focused on **designing, querying, securing, and building full-stack database applications** using SQL, Java (JDBC), PHP, HTML, JavaScript, and SQLite. The labs progressively built up to a complete multi-tiered banking system using MySQL, PHP, and SQLite, with client-side scripting and secure database interaction.
 
-The class followed the textbook **_A First Course in Database Systems_ (3rd Edition) by Jeffrey D. Ullman and Jennifer Widom. We explored topics ranging from ER modeling and relational algebra to advanced SQL, web database integration, and database security.**
+The class followed the textbook **_A First Course in Database Systems_ (3rd Edition) by Jeffrey D. Ullman and Jennifer Widom**. We explored topics ranging from ER modeling and relational algebra to advanced SQL, web database integration, and database security.
 
 ## 🧑‍💻 Final Project
 
