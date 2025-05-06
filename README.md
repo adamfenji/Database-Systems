@@ -4,11 +4,13 @@ This repository showcases my work from **CS3425: Introduction to Database System
 
 The class followed the textbook **_A First Course in Database Systems_ (3rd Edition) by Jeffrey D. Ullman and Jennifer Widom**. We explored topics ranging from ER modeling and relational algebra to advanced SQL, web database integration, and database security.
 
+
 ## 🧑‍💻 Final Project
 
 The final course project, **DB-GroceryShop**, is a complete web application simulating a grocery store with customer login, product browsing, shopping cart, and database-driven order processing.
 
 🔗 [View Final Project on GitHub »](https://github.com/adamfenji/DB-GroceryShop)
+
 
 ## 🧪 Labs & Projects
 
@@ -22,7 +24,6 @@ The final course project, **DB-GroceryShop**, is a complete web application simu
 | 5 | [PHP + PDO Banking App](Lab5_PHP_PDO.pdf) | Developed a modular online banking system with authentication, balance checks, and transfers using PDO and SQL transactions |
 | 6 | [JavaScript + SQLite](Lab6_JS_SQLite.pdf) | Built a form interface with JavaScript and connected it to a local SQLite database for persistent storage |
 
----
 
 ## 🧠 Key Learnings
 
