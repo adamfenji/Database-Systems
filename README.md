@@ -16,13 +16,13 @@ The final course project, **DB-GroceryShop**, is a complete web application simu
 
 | # | Title | Description |
 |--|----------------------------|-------------|
-| 0 | [ER Diagram & Relational Model](Lab_ER.pdf) | Designed an Entity-Relationship diagram and converted it to a relational schema |
-| 1 | [Basic SQL & Schema Design](Lab1_basicSQL.pdf) | Wrote SQL to define schemas, run basic queries, and perform aggregation, filtering, and joins |
-| 2 | [PSM & Triggers](Lab2_PSM.pdf) | Practiced Persistent Stored Modules (PSM) and triggers to automate behavior in MySQL |
-| 3 | [Java + JDBC](Lab3_JDBC.pdf) | Built a Java application using JDBC to connect to and query a MySQL database |
-| 4 | [HTML + PHP Integration](Lab4_html_php.pdf) | Created a front-end form to send data to PHP and interact with the MySQL backend |
-| 5 | [PHP + PDO Banking App](Lab5_PHP_PDO.pdf) | Developed a modular online banking system with authentication, balance checks, and transfers using PDO and SQL transactions |
-| 6 | [JavaScript + SQLite](Lab6_JS_SQLite.pdf) | Built a form interface with JavaScript and connected it to a local SQLite database for persistent storage |
+| 0 | ER Diagram & Relational Model | Designed an Entity-Relationship diagram and converted it to a relational schema |
+| 1 | Basic SQL & Schema Design | Wrote SQL to define schemas, run basic queries, and perform aggregation, filtering, and joins |
+| 2 | PSM & Triggers | Practiced Persistent Stored Modules (PSM) and triggers to automate behavior in MySQL |
+| 3 | Java + JDBC | Built a Java application using JDBC to connect to and query a MySQL database |
+| 4 | HTML + PHP Integration | Created a front-end form to send data to PHP and interact with the MySQL backend |
+| 5 | PHP + PDO Banking App | Developed a modular online banking system with authentication, balance checks, and transfers using PDO and SQL transactions |
+| 6 | JavaScript + SQLite | Built a form interface with JavaScript and connected it to a local SQLite database for persistent storage |
 
 
 ## 🧠 Key Learnings
